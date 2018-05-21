@@ -1,2 +1,2 @@
 # lakshmi5
-sample test
+sample test for git commands
